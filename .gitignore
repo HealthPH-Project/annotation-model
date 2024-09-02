@@ -1,0 +1,7 @@
+outputs/
+.env/
+.venv/
+.myenv/
+env/
+venv/
+myenv/

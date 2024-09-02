@@ -1,0 +1,6 @@
+pandas
+transformers
+torch==2.3.0
+numpy
+accelerate
+joblib
